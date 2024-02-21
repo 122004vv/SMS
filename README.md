@@ -16,5 +16,5 @@
 - Holds a HTML form with Tailwind CSS styling and does `pagination`.  
 - Refer package.json for all the modules that has been imported for smooth working of this application.  
     
-### Summary:  
+## Summary:  
 **This is a Student Management System done with the help of React js,Node and express js and mySQL for database with features like dynamically calculating age of a student and with the option of deleting a student record.**  

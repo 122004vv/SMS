@@ -13,7 +13,7 @@
 - Option to do Deletion of every single data record.  
 - Dynamically Calculate age with Date of Birth of a Student.  
 - Hosted in Vercel.  
-- Holds a HTML form with Tailwind CSS styling and does `pagenation`.  
+- Holds a HTML form with Tailwind CSS styling and does `pagination`.  
 - Refer package.json for all the modules that has been imported for smooth working of this application.  
     
 ### Summary:  
